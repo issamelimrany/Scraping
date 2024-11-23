@@ -60,5 +60,7 @@ def main():
     elapsed_time = end_time - start_time
     print(f"Execution time: {elapsed_time:.2f} seconds")
 
+    print("this is just for test")
+
 if __name__ == "__main__":
     main()
